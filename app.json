@@ -1,0 +1,17 @@
+{
+  "name": "Intake",
+  "displayName": "Intake",
+  "expo": {
+    "name": "Intake",
+    "slug": "Intake",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
